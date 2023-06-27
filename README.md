@@ -1,2 +1,33 @@
-# MySQL
-Welcome to the SQL Repository, a comprehensive and dynamic collection of SQL queries.
+
+# SQL QUERY
+
+
+
+
+## Authors
+
+- [@yadav-Simran](https://github.com/yadav-Simran)
+
+
+
+
+## 🛠 Skills
+MY SQL SERVER
+
+
+## Installation
+
+Install SQL Server Management Studio
+```bash
+  Connect to the SQL Server instance
+  
+```
+    
+
+
+
+
+
+
+
+
